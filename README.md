@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">Greetings! I am honored to introduce myself 😇</h1>
+<h1 align="center">Greetings! 😇</h1>
 
 ###
 
