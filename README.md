@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Techie-Bee, a tech enthusiast with insatiable curiosity<br>- 👩‍🔬 Working as a Bioinformatics Scientist and Genomics Trainer <br>- 📚 Currently learning docker to enhance the reproducibility of projects<br>- 🎧 Other than coding, I love listening spritual podcasts and reading poetries<br>- 🕵️‍♀️ i am so curious that I often feel like a digital detective uncovering the every bit of it<br>I believe curiosity is my superpower, that allows me to see beyond the surface and constantly drive me to learn more </p>
+<p align="left">Techie-Bee, a tech enthusiast with insatiable curiosity<br>- 🕵️‍♀️ so curious that I often feel like a digital detective uncovering the every bit of it<br>- 👩‍🔬 Working as a Bioinformatics Scientist and Genomics Trainer <br>- 📚 Currently learning docker to enhance the reproducibility of projects<br>- 🎧 Other than coding, I love listening spritual podcasts and reading poetries<br>- I believe curiosity is my superpower, that allows me to see beyond the surface and constantly drive me to learn more </p>
 
 ###
 <br>
