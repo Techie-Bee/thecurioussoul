@@ -1,4 +1,4 @@
-# thecurioussoul
+# phd.thecurioussoul
 
 <div align="center">
   <img height="180" src="https://us.123rf.com/450wm/pixologystudio/pixologystudio2305/pixologystudio230500072/205045156-islamic-woman-in-laptop-flat-character-suitable-for-flat-design-illustration-and-background-preview.jpg?ver=6"  />
