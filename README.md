@@ -5,9 +5,9 @@
 
 ###
 
-👩‍💻 A tech enthusiast with insatiable curiosity <br/> 
+👩‍💻 Bioinformatician sharing my knowledge & codes from undertaken projects  <br/> 
 🎓 Studied [Computer Science](https://www.amu.ac.in) at the Aligarh Muslim University, Aligarh, India <br/> 
-👩‍🔬 Working as a Bioinformatician and Genomics Trainer at Biocuration Pvt. Ltd. India <br/> 
+👩‍🔬 Working as Genomics Professional Trainer at Biocuration Pvt. Ltd., Bangalore, India <br/> 
 📚 Currently learning AI & working on docker to enhance the reproducibility of my projects <br/> 
 🎧 Other than writing codes, I enjoy listening spritual podcasts and reading poetries<br/>
 
