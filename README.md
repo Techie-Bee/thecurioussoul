@@ -16,7 +16,7 @@
 <h3 align="left"> Language and Tools</h3>
 
 ###
-
+```
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" height="35" alt="ruby logo"  />
   <img width="12" />
@@ -38,15 +38,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="75" alt="amazonwebservices logo"  />
 </div>
-
-###
-<br>
-<h3 align="left">  My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=thecurioussoul&theme=ocean-gradient&exclude_days=Fri" height="220" alt="streak graph"  />
-</div>
-
-###
+```
