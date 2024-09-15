@@ -1,22 +1,6 @@
-# Ghazala Sultan
-
-<div align="center">
-  <img height="180" src="https://us.123rf.com/450wm/pixologystudio/pixologystudio2305/pixologystudio230500072/205045156-islamic-woman-in-laptop-flat-character-suitable-for-flat-design-illustration-and-background-preview.jpg?ver=6"  />
-</div>
-
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thecurioussoul&" height="25"  />
-</div>
-
-###
-
-<h1 align="center">Greetings! 😇</h1>
+<h1 align="center">Hello! I'm  Ghazala😇</h1>
 
 ###
 
