@@ -1,14 +1,15 @@
-###
-
-<h1 align="center">Hello! I'm  Ghazala😇</h1>
 
 ###
 
-<h3 align="left">  About Me</h3>
+<h3 align="left"> 👋 Hi, I'm Ghazala! </h3>
 
 ###
 
-<p align="left">A tech enthusiast with insatiable curiosity<br>- 🕵️‍♀️ $o curious that I often feel like a digital detective<br>- 👩‍🔬 Working as a Bioinformatician and Genomics Trainer <br>- 📚 Currently working on docker to enhance the reproducibility of projects<br>- 🎧 Other than wring codes, I love listening spritual podcasts and reading poetries<br>- I believe curiosity is my superpower, that allows me to see beyond the surface and constantly drive me to learn more </p>
+👩‍💻 A tech enthusiast with insatiable curiosity <br/> 
+🎓 Studied [Computer Science] (https://www.amu.ac.in) at the Aligarh Muslim University, Aligarh, India <br/> 
+👩‍🔬 Working as a Bioinformatician and Genomics Trainer at Biocuration, India <br/> 
+📚 Currently working on docker to enhance the reproducibility of my projects <br/> 
+🎧 Other than wring codes, I enjoy listening spritual podcasts and reading poetries<br/>
 
 ###
 <br>
