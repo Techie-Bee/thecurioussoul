@@ -8,8 +8,8 @@
 👩‍💻 A tech enthusiast with insatiable curiosity <br/> 
 🎓 Studied [Computer Science](https://www.amu.ac.in) at the Aligarh Muslim University, Aligarh, India <br/> 
 👩‍🔬 Working as a Bioinformatician and Genomics Trainer at Biocuration Pvt. Ltd. India <br/> 
-📚 Currently working on docker to enhance the reproducibility of my projects <br/> 
-🎧 Other than wring codes, I enjoy listening spritual podcasts and reading poetries<br/>
+📚 Currently learning AI & working on docker to enhance the reproducibility of my projects <br/> 
+🎧 Other than writing codes, I enjoy listening spritual podcasts and reading poetries<br/>
 
 ###
 <br>
