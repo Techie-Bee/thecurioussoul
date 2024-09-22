@@ -9,7 +9,7 @@
 🎓 Studied [Computer Science](https://www.amu.ac.in) at the Aligarh Muslim University, Aligarh, India <br/> 
 👩‍🔬 Working as Genomics Professional Trainer at Biocuration Pvt. Ltd., Bangalore, India <br/> 
 📚 Currently learning AI & working on docker to enhance the reproducibility of my projects <br/> 
-🎧 When I am not writing codes, I enjoy listening podcasts and reading poetries<br/>
+🎧 When I am not writing codes, I enjoy listening podcasts and reading potries<br/>
 
 ###
 <br>
